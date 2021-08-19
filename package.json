@@ -16,7 +16,7 @@
         "archiver": "^5.2.0",
         "colors": "^1.4.0",
         "commander": "^7.0.0",
-        "dotenv": "^8.2.0",
+        "dotenv": "^8.6.0",
         "esm": "^3.2.25",
         "fs-extra": "^9.1.0",
         "highland": "^2.13.5"
